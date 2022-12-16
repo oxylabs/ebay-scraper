@@ -2,6 +2,8 @@
 
 ### How it works
 
+eBay Scraper is a sophisticated solution designed to gather data from eBay website in real time and without a hassle. This quick guide will detail the process of scraping eBay using Oxylabs' Scraper API.
+
 You can get eBay results by providing your own URLs to our service. We can return the HTML of any eBay page you like.
 
 #### Python code example
@@ -53,3 +55,5 @@ Find code examples for other programming languages [**here**](https://github.com
     ]
 }
 ```
+
+With Oxylabs’ eBay Scraper, publicly available data extraction will feel effortless. From product information to customer reviews – you’ll have all the data you need. If you have further queries, you can contact us via live chat or [email](mailto:support@oxylabs.io), and we’ll sort out your concerns in no time.
