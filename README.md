@@ -1,8 +1,8 @@
 # Ebay Scraper
 
-### How it works
-
 eBay Scraper is a sophisticated solution designed to gather data from eBay website in real time and without a hassle. This quick guide will detail the process of scraping eBay using Oxylabs' Scraper API.
+
+### How it works
 
 You can get eBay results by providing your own URLs to our service. We can return the HTML of any eBay page you like.
 
