@@ -39,7 +39,7 @@ pprint(response.json())
 
 Find code examples for other programming languages [**here**](https://github.com/oxylabs/ebay-scraper/tree/main/code%20examples)
 
-#### Output Example
+#### Output example
 
 ```json
 {
