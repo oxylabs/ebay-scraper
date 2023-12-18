@@ -60,3 +60,5 @@ Find code examples for other programming languages [**here**](https://github.com
 ```
 
 With Oxylabs’ eBay Scraper, publicly available data extraction will feel effortless. From product information to customer reviews – you’ll have all the data you need. If you have further queries, you can contact us via live chat or [email](mailto:support@oxylabs.io), and we’ll sort out your concerns in no time.
+
+Also, check this tutorial on [pypi](https://pypi.org/project/Ebay-scraper-api/)
