@@ -1,7 +1,7 @@
 <?php
 
 $params = [
-    'source' => 'universal_ecommerce',
+    'source' => 'universal',
     'url' => 'https://www.ebay.com/itm/293608130360',
     'geo_location' => 'United States'
 ];
