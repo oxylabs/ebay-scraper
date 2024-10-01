@@ -8,7 +8,7 @@ public class Main implements Runnable {
 
     public void run() {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("source", "universal_ecommerce");
+        jsonObject.put("source", "universal");
         jsonObject.put("url", "https://www.ebay.com/itm/293608130360");
         jsonObject.put("geo_location", "United States");
 
